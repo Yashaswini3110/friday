@@ -1,0 +1,28 @@
+.bob{
+
+    height: 800px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.bob1{
+    margin-top: 70px;
+    height: 600px;
+    width: 1100px;
+    color: white;
+    
+}
+.bob2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    left: 170px;
+    font-size: 50px;
+
+}
+.bob3{
+    height: 75px;
+    background-color:#2d2d2d;
+    margin-top: 15px;
+    color: white;
+
+}
